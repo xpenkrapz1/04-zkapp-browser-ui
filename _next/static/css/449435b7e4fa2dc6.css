@@ -751,7 +751,7 @@ a {
 	background-size: cover;
 	width: 90px;
 	height: 70px;
-	position: center;
+	position: absolute;
 	left: 430px;
 	top: 600px;
 }
